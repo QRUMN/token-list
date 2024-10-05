@@ -5,6 +5,6 @@
   "name": "QRUMN",
   "decimals": 9,
   "logoURI": "https://raw.githubusercontent.com/QRUMN/token-list/main/assets/mainnet/3PDe6GpWLY2YBGEzBq9ARxPA3FAwuLQzGPeAqPpaaZXX/logo.png",
-  "tags": ["utility-token", "nft", "community-token"]
+  "tags": ["utility-token", "nft", "community-token", "governance-token"]
   "extensions":{ "website": "https://qrumn.io", "twitter": "https://x.com/qrumn" 
 }
